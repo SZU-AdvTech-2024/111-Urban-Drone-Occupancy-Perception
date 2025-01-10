@@ -1,0 +1,28 @@
+
+cpython:S1192ò"JDefine a constant instead of duplicating this literal "pfm2cam\\" 4 times.(ºËõñ
+bpython:S1192ê"IDefine a constant instead of duplicating this literal "points\\" 3 times.(ÊªÈ®
+kpython:S117"ORename this parameter "Q_W" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤†žÏüÿÿÿÿ
+kpython:S117"ORename this parameter "Q_X" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤†žÏüÿÿÿÿ
+kpython:S117"ORename this parameter "Q_Y" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤†žÏüÿÿÿÿ
+kpython:S117"ORename this parameter "Q_Z" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤†žÏüÿÿÿÿ
+kpython:S1174"ORename this parameter "Q_W" to match the regular expression ^[_a-z][a-z0-9_]*$.(ýî»øÿÿÿÿÿ
+kpython:S1174"ORename this parameter "Q_X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ýî»øÿÿÿÿÿ
+kpython:S1174"ORename this parameter "Q_Y" to match the regular expression ^[_a-z][a-z0-9_]*$.(ýî»øÿÿÿÿÿ
+kpython:S1174"ORename this parameter "Q_Z" to match the regular expression ^[_a-z][a-z0-9_]*$.(ýî»øÿÿÿÿÿ
+<python:S125š"Remove this commented out code.(ÛõÛ‡úÿÿÿÿ
+lpython:S117¹"TRename this local variable "R_x" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ùâ”ª
+qpython:S117¿"TRename this local variable "R_y" to match the regular expression ^[_a-z][a-z0-9_]*$.(šÊ‹—ýÿÿÿÿ
+lpython:S117Å"TRename this local variable "R_z" to match the regular expression ^[_a-z][a-z0-9_]*$.(”ÅÃº
+7python:S125Ê"Remove this commented out code.(«ÿû¢
+fpython:S117ÿ"NRename this parameter "RS" to match the regular expression ^[_a-z][a-z0-9_]*$.(°ùç
+fpython:S117ÿ"NRename this parameter "TS" to match the regular expression ^[_a-z][a-z0-9_]*$.(°ùç
+rpython:S117›"ZRename this local variable "points_2D" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ìçâõ
+{python:S117š"^Rename this local variable "points_2D_hom" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÁàÈúÿÿÿÿ
+vpython:S117—"^Rename this local variable "points_3D_hom" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘Ë·ç
+fpython:S1542ÿ"MRename function "Cam2pix" to match the regular expression ^[a-z_][a-z0-9_]*$.(°ùç
+<python:S125"Remove this commented out code.(«¶îæüÿÿÿÿ
+<python:S125œ"Remove this commented out code.(×›ø¯ùÿÿÿÿ
+<python:S125"Remove this commented out code.(«ÜÎæýÿÿÿÿ
+<python:S125‘"Remove this commented out code.(­ÎƒÞùÿÿÿÿ
+7python:S125š"Remove this commented out code.(‘ß£ 
+7python:S125Ö"Remove this commented out code.(¹ƒ·Œ

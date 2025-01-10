@@ -1,0 +1,17 @@
+
+dpython:S1192i"GDefine a constant instead of duplicating this literal "imgs\\" 9 times.(ì˜Ëøÿÿÿÿ
+epython:S1192l"HDefine a constant instead of duplicating this literal "depth\\" 8 times.(ıø“ğıÿÿÿÿ
+Lpython:S1066l"/Merge this if statement with the enclosing one.(ıø“ğıÿÿÿÿ
+;python:S125H"Remove this commented out code.(ÀÔ…ıúÿÿÿÿ
+jpython:S117T"SRename this local variable "Cx" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜Ø¢§
+jpython:S117U"SRename this local variable "Cy" to match the regular expression ^[_a-z][a-z0-9_]*$.(äğ€
+ipython:S117S"SRename this local variable "Fx" to match the regular expression ^[_a-z][a-z0-9_]*$.(âè¨e
+ipython:S117S"SRename this local variable "Fy" to match the regular expression ^[_a-z][a-z0-9_]*$.(âè¨e
+;python:S125V"Remove this commented out code.(ÁĞ¢£øÿÿÿÿ
+6python:S125]"Remove this commented out code.(ú›‚×
+7python:S125"Remove this commented out code.(ÆÌ°°
+<python:S125Ä"Remove this commented out code.(†Ó§ßúÿÿÿÿ
+<python:S125"Remove this commented out code.(îÕáòûÿÿÿÿ
+<python:S125–"Remove this commented out code.(îÕáòûÿÿÿÿ
+<python:S125²"Remove this commented out code.(©É¤ßşÿÿÿÿ
+7python:S125Ã"Remove this commented out code.(Ğ‘¨Õ

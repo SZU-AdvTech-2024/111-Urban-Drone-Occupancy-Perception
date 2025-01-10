@@ -1,0 +1,15 @@
+
+Upython:S112">Replace this generic exception class with a more specific one.(ÛÜ‘Ù
+Zpython:S112">Replace this generic exception class with a more specific one.(Í¯€ìøÿÿÿÿ
+jpython:S1178"SRename this local variable "Cx" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜Ø¢§
+jpython:S1179"SRename this local variable "Cy" to match the regular expression ^[_a-z][a-z0-9_]*$.(äð€ž
+ipython:S1177"SRename this local variable "Fx" to match the regular expression ^[_a-z][a-z0-9_]*$.(âè¨e
+ipython:S1177"SRename this local variable "Fy" to match the regular expression ^[_a-z][a-z0-9_]*$.(âè¨e
+;python:S125:"Remove this commented out code.(ÁÐ¢£øÿÿÿÿ
+6python:S125A"Remove this commented out code.(ú›‚×
+jpython:S117O"SRename this local variable "Cx" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜Ø¢§
+jpython:S117P"SRename this local variable "Cy" to match the regular expression ^[_a-z][a-z0-9_]*$.(äð€ž
+ipython:S117N"SRename this local variable "Fx" to match the regular expression ^[_a-z][a-z0-9_]*$.(âè¨e
+ipython:S117N"SRename this local variable "Fy" to match the regular expression ^[_a-z][a-z0-9_]*$.(âè¨e
+;python:S125Q"Remove this commented out code.(ÁÐ¢£øÿÿÿÿ
+6python:S125X"Remove this commented out code.(ú›‚×

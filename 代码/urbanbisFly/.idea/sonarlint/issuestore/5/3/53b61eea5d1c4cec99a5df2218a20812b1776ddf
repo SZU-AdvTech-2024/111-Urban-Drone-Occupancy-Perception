@@ -1,0 +1,18 @@
+
+epython:S1192¢"GDefine a constant instead of duplicating this literal "imgs\\" 9 times.(ì˜Ëøÿÿÿÿ
+fpython:S1192¥"HDefine a constant instead of duplicating this literal "depth\\" 8 times.(ıø“ğıÿÿÿÿ
+Mpython:S1066¥"/Merge this if statement with the enclosing one.(ıø“ğıÿÿÿÿ
+xpython:S3776'"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(¡ÊØøÿÿÿÿ8¿œá’2
+;python:S125}"Remove this commented out code.(ÀÔ…ıúÿÿÿÿ
+rpython:S117ˆ"ZRename this local variable "CameraFOV" to match the regular expression ^[_a-z][a-z0-9_]*$.(Á¥®¤
+kpython:S117‹"SRename this local variable "Cx" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜Ø¢§
+kpython:S117Œ"SRename this local variable "Cy" to match the regular expression ^[_a-z][a-z0-9_]*$.(äğ€
+jpython:S117Š"SRename this local variable "Fx" to match the regular expression ^[_a-z][a-z0-9_]*$.(âè¨e
+jpython:S117Š"SRename this local variable "Fy" to match the regular expression ^[_a-z][a-z0-9_]*$.(âè¨e
+npython:S117‡"WRename this local variable "Height" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğŒX
+spython:S117†"VRename this local variable "Width" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒ¼üĞùÿÿÿÿ
+<python:S125"Remove this commented out code.(ÁĞ¢£øÿÿÿÿ
+7python:S125”"Remove this commented out code.(ú›‚×
+<python:S125Ú"Remove this commented out code.(†Ó§ßúÿÿÿÿ
+<python:S125Î"Remove this commented out code.(©É¤ßşÿÿÿÿ
+7python:S125ß"Remove this commented out code.(Ğ‘¨Õ

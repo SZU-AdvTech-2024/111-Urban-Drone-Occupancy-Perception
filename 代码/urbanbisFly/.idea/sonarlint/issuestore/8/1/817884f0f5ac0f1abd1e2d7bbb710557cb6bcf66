@@ -1,0 +1,12 @@
+
+;python:S125"Remove this commented out code.(Šàü—ÿÿÿÿÿ
+;python:S125"Remove this commented out code.(¨èöñùÿÿÿÿ
+kpython:S117/"TRename this local variable "R_x" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ùâ”ª
+ppython:S1175"TRename this local variable "R_y" to match the regular expression ^[_a-z][a-z0-9_]*$.(šÊ‹—ýÿÿÿÿ
+kpython:S117;"TRename this local variable "R_z" to match the regular expression ^[_a-z][a-z0-9_]*$.(”ÅÃº
+6python:S125@"Remove this commented out code.(«ÿû¢
+|python:S117³"_Rename this local variable "file_path_ROOT" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ó½ª‘úÿÿÿÿ
+>python:S1481Ê"%Remove the unused local variable "R".(©¡Òö
+Cpython:S1481É"%Remove the unused local variable "T".(¾§…¹úÿÿÿÿ
+7python:S125¶"Remove this commented out code.(äŒ•ì
+<python:S125Ë"Remove this commented out code.(‹˜øýÿÿÿÿ
